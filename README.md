@@ -1,6 +1,6 @@
 Hi.
 
-Me and my team made this code for a project we were working on.  This project is about 1 week old and it's about making a mouse for visually impaired people based on microbit.
+Me and my team made this code for a project we were working on.  This project is 1 week old and it's about making a mouse for visually impaired people based on microbit.
 
 The language we used is micropython.
 
