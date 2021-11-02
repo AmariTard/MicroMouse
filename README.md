@@ -7,4 +7,5 @@ The language we used is micropython.
 I hope you find this useful, it would be updated.
 
 Thanks!
-Team 9 (Amari, Ram Vargas, todocono, molly, Eric, Cici Xue)
+
+Amari, Ram Vargas, todocono, molly, Eric, Cici
