@@ -1,10 +1,7 @@
 '''
-mouseddddddddd
-v
-date
-This project ....
-Team members
-Repository at
+MicroMouse
+11/2/2021
+This project is made for experimantal purposes only!
 Released under Creative Commons License v3.0
 '''
 
